@@ -13,7 +13,7 @@ atlassian*
 /pub/sitemap
 /pub/sitemap.xml
 /.idea
-\app\design\frontend\Test
+/app/design/frontend/Test
 /.gitattributes
 /app/config_sandbox
 /app/etc/env.php
